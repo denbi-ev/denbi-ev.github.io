@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<link rel="icon" href="../sites/default/files/deNBIeV_favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="../satzung" />
+<link rel="shortlink" href="85" />
+
+    <title>Satzung | de.NBI e.V.</title>
+    <link rel="stylesheet" media="all" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" media="all" href="../sites/default/files/css/css_CtuRgjiR6PjYWxRQiyZkM_4mwQa4naLw0tAdT3p0l6M.css" />
+<link rel="stylesheet" media="all" href="../sites/default/files/css/css_i1HPtOzc1Y0Jr01UW7_5sQyI4wRne4WNabA5tKIcyqw.css" />
+<link rel="stylesheet" media="print" href="../sites/default/files/css/css_Y4H_4BqmgyCtG7E7YdseTs2qvy9C34c51kBamDdgark.css" />
+<link rel="stylesheet" media="all" href="../sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" />
+
+    <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" defer crossorigin="anonymous"></script>
+<script src="https://use.fontawesome.com/releases/v6.1.0/js/v4-shims.js" defer crossorigin="anonymous"></script>
+
+  </head>
+  <body class="layout-no-sidebars page-node-85 path-node node--type-page">
+    <a href="85#main-content" class="visually-hidden-focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+  <div id="page">
+    <header id="header" class="header" role="banner" aria-label="Site header">
+                      <nav class="navbar navbar-expand-lg" id="navbar-main">
+                        <div id="block-denbievnavbarundscrollbutton" class="block block-block-content block-block-content50820119-c747-4662-b52b-063940859050">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+.navbar button a{
+    font-size: 1.25em;
+    text-decoration: none;
+    color: #09090A;
+}
+.navbar{
+  background-image: linear-gradient(to right, rgba(252,254,255,1), rgba(252,254,255,1));
+  top: 20px;
+}
+.navbar button:hover a, .navbar button a:hover,.nav a:hover, .nav-item:hover .navbtn, .dropdown-menu .dropdown-item:hover{
+    color: #0058A3;
+}
+.nav a {
+  float: left;
+  font-size: 1em;
+  text-align: center;
+  text-decoration: none;
+}
+.nav-item {
+  float: left;
+  overflow: hidden;
+  text-align: left;
+  text-decoration: none;
+}
+
+.navbtn {
+  border: none;
+  outline: none;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+  padding: 20px;
+  text-transform: uppercase;
+}
+
+.navdrop-content {
+  display: none;
+  position: relative;
+  background-color: rgba(252,254,255,1);
+  min-width: 160px;
+  z-index: 1;
+}
+
+.navdrop-content a {
+  float: none;
+  padding: 12px 16px;
+  color: inherit;
+  text-decoration: none;
+  display: block;
+  font-size: 1em;
+  text-align: left;
+}
+@media only screen and (min-width: 992px) {
+  .nav-item:hover .navdrop-content {
+  display: block;
+  margin-top: 10px;
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+  }
+.navbar{
+  background-image: linear-gradient(to right, rgba(252,254,255,1), rgba(252,254,255,0.8));
+}
+}
+.dropdown-menu {
+  min-width: 135px;
+  display: none;
+  position: absolute;
+  border: none;
+  border-top: 1px solid #0058A3;
+  border-radius: 0;
+  z-index: 1;
+  font-size: 1rem;
+  }
+.dropdown-toggle::after {
+  content: none;
+}
+@media only screen and (max-width: 991px) {
+  .navdrop-content {
+  display: block;
+}
+.dropdown-menu {
+  border-bottom: 1px solid #0058A3;
+  display: block;
+}
+}
+#btn-scroll-to-top,
+#btn-scroll-to-top:focus,
+  #btn-scroll-to-top:active {
+      position: fixed;
+      bottom: 1.5rem;
+      right: 1.5rem;
+      z-index: 99;
+      color: rgb(0,135,65);
+      opacity: 0;
+      transition: opacity 0.4s ease-in-out;
+      outline: none;
+      box-shadow: none;
+  }
+  #btn-scroll-to-top:hover{
+      color: rgba(0,135,65, 0.7);
+      outline: none;
+      box-shadow: none;
+  }
+
+
+/*--><!]]>*/
+</style><nav class="navbar navbar-expand-lg p-0 fixed-top" style="height: 120px;" id="navbar"><div class="container justify-content-end justify-content-sm-between">
+  
+  
+        <div class="navbar-brand me-2 d-none d-sm-block pr-lg-4">
+          <a href="../about"><img src="../sites/default/files/deNBIeV_Logo.svg" alt="deNBI e.V." style="height: 95px; width: auto" /></a>
+          </div>
+  
+        <!--Collapsible content-->
+        <div class="offcanvas offcanvas-end h-100 py-2" data-bs-scroll="true" tabindex="-1" id="navbarOffcanvas" aria-labelledby="navbarOffcanvasLabel">
+  
+            <div class="offcanvas-header px-4 pt-4 pb-0">
+                <a class="offcanvas-title" id="offcanvasLabel" href="../about">
+                    <img src="../sites/default/files/deNBIeV_Logo.svg" alt="deNBI e.V." style="height: 75px; width: auto" /></a>
+                <button type="button" class="btn-close text-reset shadow-none" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <!--Logos-->
+            <!--Links-->
+            <div class="offcanvas-body justify-content-end mx-lg-5">
+                <ul class="navbar-nav"><div class="dropdown position-relative d-inline-block">
+                        <button type="button" class="btn shadow-none border-0 mt-2 mt-xl-0 me-4 text-start">
+                            <a href="../about">
+                                Über Uns
+                            </a>
+                        </button>
+                        <ul class="dropdown-menu bg-white"><li><a class="dropdown-item d-block bg-white" href="../about#Vorstand">Vorstand</a></li>
+                          <li><a class="dropdown-item d-block bg-white " href="../about#Mitglieder">Mitglieder</a></li>
+                      </ul></div>
+                    <button type="button" class="btn shadow-none border-0 mt-2 mt-xl-0 me-4 text-start">
+                        <a href="../satzung">Satzung</a>
+                    </button>
+                </ul></div>
+          </div>
+          <div>
+          <button class="navbar-toggler shadow-none border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarOffcanvas" aria-controls="navbarOffcanvas" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+          </div>
+    </div>
+  </nav><button type="button" class="btn" id="btn-scroll-to-top">
+    <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-arrow-up-circle-fill" viewbox="0 0 16 16"><path d="M16 8A8 8 0 1 0 0 8a8 8 0 0 0 16 0zm-7.5 3.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11.5z"></path></svg></button>
+  <script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+    let mybutton = document.getElementById("btn-scroll-to-top");
+    // When the user scrolls down 80px from the top of the document, resize the navbar's padding and the logo's font size
+    window.onscroll = function() {scrollFunction()};
+    
+    function scrollFunction() {
+      if (document.body.scrollTop > 140 || document.documentElement.scrollTop > 140) {
+        document.getElementById("navbar").style.background= "#fcfeff";
+        document.getElementById("navbar").style.top="0";
+        document.getElementById("navbar").style.borderBottom ="solid 1px #F0F2F3";
+      } else {
+        document.getElementById("navbar").style.background= "linear-gradient(to right, rgba(252,254,255,1), rgba(252,254,255,0.8))";
+        document.getElementById("navbar").style.top="20px";
+        document.getElementById("navbar").style.borderBottom ="none";
+      }
+      var scrollTotal = document.documentElement.scrollHeight - document.documentElement.clientHeight
+      if (
+          (document.documentElement.scrollTop / scrollTotal) > 0.30
+      ) {
+          mybutton.style.opacity = "1";
+      } else {
+          mybutton.style.opacity = "0";
+      }
+    }
+    mybutton.addEventListener("click", backToTop);
+  function backToTop() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+  }
+    
+//--><!]]>
+</script></div>
+      
+    </div>
+  </div>
+
+
+                                          </nav>
+          </header>
+            <div id="main-wrapper" class="layout-main-wrapper clearfix">
+              <div id="main" class="container">
+          
+          <div class="row row-offcanvas row-offcanvas-left clearfix">
+              <main class="main-content col" id="content" role="main">
+                <section class="section">
+                  <a href="85#main-content" id="main-content" tabindex="-1"></a>
+                    <div data-drupal-messages-fallback class="hidden"></div><div id="block-bootstrap-denbiev-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+
+<article role="article" about="/satzung" typeof="schema:WebPage" class="node node--type-page node--view-mode-full clearfix">
+  <header>
+    
+          <span property="schema:name" content="Satzung" class="rdf-meta hidden"></span>
+
+      </header>
+  <div class="node__content clearfix">
+      <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-layout-builder block-field-blocknodepagebody">
+  
+    
+      <div class="content">
+      
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+body{
+counter-reset: section;
+    }
+main-content{
+margin-top: 120px;
+}
+.hero{
+  height: 40vh;
+top:-60px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../sites/default/files/2022-12/deNBI_background_Satzung-min.jpg");
+  background-position: right;
+min-height: 320px;
+}
+.Satzung h4{
+color: #0058a3;}
+    .Satzung h4::before{
+        content: "§ " counter(section) ". ";
+        counter-increment: section;
+    }
+
+/*--><!]]>*/
+</style><section class="hero full-width"><div class="container p-2 align-items-center text-align-center h-100 w-100" style="position: relative;top:150px;">
+<h1 class="display-2 text-black">Satzung</h1>
+</div>
+</section><div class="mb-5" style="text-align: center;">
+<h4>Satzung des Vereins</h4>
+
+<h1>de.NBI e.V.</h1>
+</div>
+
+<section class="Satzung mb-5 px-5" style="text-align: justify;"><h4>Name, Sitz, Geschäftsjahr</h4>
+
+<ol><li>Der Verein führt den Namen „de.NBI“ (für Deutsches Netzwerk für Bioinformatik-Infrastruktur). Er soll in das Vereinsregister eingetragen werden und nach der Eintragung den Rechtsformzusatz „e.V.“ tragen.</li>
+	<li>Sitz des Vereins ist Heidelberg.</li>
+	<li>Das Geschäftsjahr des Vereins ist das Kalenderjahr.</li>
+</ol><h4>Zweck und Aufgaben</h4>
+
+<ol><li>Zweck des Vereins ist die Förderung von Wissenschaft und Forschung.</li>
+	<li>Der Satzungszweck des Vereins wird insbesondere durch folgende Maßnahmen und Tätigkeiten verwirklicht durch:
+	<ol type="a"><li>den Betrieb einer deutschen Bioinformatik-Infrastruktur, um die Wissenschaft und Forschung in Deutschland, Europa und darüber hinaus zu unterstützen.</li>
+		<li>den Betrieb eines nationalen Expertisen- und Infrastrukturnetzwerks für die Bioinformatik in Deutschland.</li>
+		<li>die Bereitstellung bioinformatischer Services und Tools für die Lebenswissenschaften, insbesondere deren:
+		<ul style="list-style-type:disc;"><li>Entwicklung im Rahmen neuer wissenschaftlicher Technologien</li>
+			<li>Qualitätssicherung, Aktualisierung und Nachhaltigkeit</li>
+		</ul></li>
+		<li>die Bereitstellung bioinformatischen Trainings für Anfänger (ohne bioinformatische Vorkenntnisse), Fortgeschrittene und Experten (die spezielles Training für besondere Anwendungen, Tools und Services benötigen)</li>
+		<li>die Bereitstellung einer verteilten Cloud-Infrastruktur mit Speicher- und Rechenkapazitäten (de.NBI-Cloud), die kostenfrei für akademische Nutzer zur Verfügung stehen soll</li>
+		<li>die Förderung und strategische Mitausrichtung europäischer Kooperationen</li>
+		<li>die Zusammenarbeit mit dem deutschen ELIXIR-Knoten (Forschungsinfrastruktur für lebenswissenschaftliche Daten und Informationen)</li>
+		<li>die Förderung von Industriekooperationen der akademischen Bioinformatik mit der Industrie und/oder kleinen und mittleren Unternehmen ohne eigene Beteiligung des Vereins</li>
+		<li>Wissenschaftliche und technische Vernetzung sowie Kooperation der Beteiligten aus Wissenschaft und Forschung.</li>
+	</ol></li>
+	<li>Der Verein kann seine Zwecke selbst, durch Hilfspersonen (§ 57 Abs. 1 Satz 2 AO) oder dadurch verwirklichen, dass er seine Mittel teilweise einer anderen, ebenfalls steuerbegünstigten Körperschaft oder einer juristischen Person des öffentlichen Rechts zur Verwendung für steuerbegünstigte Zwecke zuwendet (§ 58 Nr. 1 AO).</li>
+	<li>Der Verein kann ferner für die Verwirklichung des Zwecks der Förderung von Wissenschaft und Forschung Mittel bei einer anderen inländischen oder ausländischen Körperschaft oder durch eine juristische Person des öffentlichen Rechts beschaffen; die Beschaffung von Mitteln für eine unbeschränkt steuerpflichtige Körperschaft des privaten Rechts setzt voraus, dass diese selbst steuerbegünstigt ist.</li>
+</ol><h4>Gemeinnützigkeit</h4>
+
+<ol><li>Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.</li>
+	<li>Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden.</li>
+	<li>Die Mitglieder erhalten keine Gewinnanteile und in ihrer Eigenschaft als Mitglieder auch keine sonstigen Zuwendungen aus Mitteln des Vereins.</li>
+	<li>Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.</li>
+</ol><h4>Mitgliedschaft</h4>
+
+<ol><li>Der Verein hat ordentliche Mitglieder und Ehrenmitglieder.</li>
+	<li>Ordentliche Mitglieder können natürliche und juristische Personen, Forschungseinrichtungen und Forschungsunternehmen, Internationale Organisationen, Gesellschaften ohne Rechtsfähigkeit (Vereinigungen) sowie Vereine werden, die die Arbeiten des Vereins fördern wollen.</li>
+	<li>Anträge auf Mitgliedschaft sind schriftlich an den Vorstand zu richten. Bei Mitgliedern, die keine natürlichen Personen sind, werden die Mitgliedschaftsrechte (insbesondere die Teilnahme- und Stimmrechte) von einem Vertreter ausgeübt, der in dem Aufnahmeantrag anzugeben ist; ein späterer Wechsel in der Vertretung ist unverzüglich mitzuteilen. Über den Antrag entscheidet der Vorstand durch Beschluss nach freiem Ermessen; ein Anspruch auf Aufnahme besteht nicht.</li>
+	<li>Eintrittsdatum ist das Datum des Aufnahmebeschlusses.</li>
+	<li>Durch die Mitgliedschaft wird kein Anspruch auf das Vereinsvermögen erworben.</li>
+	<li>Auf Vorschlag des Vorstands können von der Mitgliederversammlung natürliche Personen für besondere Verdienste zu Ehrenmitgliedern des Vereins gewählt werden.</li>
+</ol><h4>Mitgliedsbeiträge</h4>
+
+<ol><li>Von den Mitgliedern wird ein regelmäßiger Jahresbeitrag erhoben. Dessen Höhe und Fälligkeit werden durch eine Beitragsordnung festgelegt, die von der Mitgliederversammlung beschlossen wird. Über die laufenden Beiträge hinaus können Sonderleistungen erbracht werden. Die Beitragsordnung kann auch vorsehen, dass anstelle eines Jahresbeitrags auf begründeten Antrag eines Mitglieds ein zu bewertender Sachbeitrag erbracht wird.</li>
+	<li>Ehrenmitglieder sind von der Beitragszahlung befreit.</li>
+</ol><h4>Beendigung der Mitgliedschaft</h4>
+
+<ol><li>Die Mitgliedschaft kann unter Einhaltung einer dreimonatigen Frist zum Schluss des Geschäftsjahres schriftlich gekündigt werden. Die Kündigung ist an den Vorstand zu richten.</li>
+	<li>Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es:
+	<ol type="a"><li>schuldhaft in grober Weise die Interessen des Vereins verletzt. Dem betroffenen Mitglied ist zuvor Gelegenheit zur Stellungnahme zu geben.</li>
+		<li>zweimaliger, in angemessenem Abstand erfolgter schriftlicher Mahnung mit der Begleichung von Mitgliedsbeiträgen im Rückstand ist.</li>
+	</ol></li>
+	<li>Bei natürlichen Personen endet die Mitgliedschaft mit dem Tod, bei juristischen Personen mit deren Auflösung.</li>
+	<li>Ausscheidende und ausgeschlossene Mitglieder haben keinen Anspruch auf das Vermögen des Vereins. Die Beitragspflicht für das laufende Beitragsjahr erlischt nicht. Eine Beitragsrückerstattung findet nicht statt.</li>
+</ol><h4>Organe</h4>
+
+<ol><li>Die Organe des Vereins sind:
+	<ol type="a"><li>die Mitgliederversammlung</li>
+		<li>der Vorstand</li>
+		<li>Kuratorium</li>
+	</ol></li>
+	<li>Die Mitgliederversammlung kann die Bildung weiterer Vereinsorgane beschließen.</li>
+	<li>Die Organe des Vereins können ihre Beschlüsse im schriftlichen oder elektronischen Verfahren treffen, soweit nicht mehr als ein Mitglied des entsprechenden Organs widerspricht.</li>
+</ol><h4>Mitgliederversammlung</h4>
+
+<ol><li>Die Mitgliederversammlung ist oberstes Organ des Vereins</li>
+	<li>Die Mitgliederversammlung kann über alle Angelegenheiten des Vereins beschließen und ist insbesondere für folgende Aufgaben zuständig:
+	<ol type="a"><li>Wahl und Abwahl der Mitglieder des Vorstands</li>
+		<li>Entgegennahme und Genehmigung des von dem Vorstand zu erstattenden Jahresberichts</li>
+		<li>Entgegennahme und Genehmigung der vom Vorstand vorzulegenden Jahresrechnung</li>
+		<li>Entlastung des Vorstands und Geschäftsführung</li>
+		<li>Erlass und Änderung der Beitragsordnung</li>
+		<li>Wahl und Abwahl der Mitglieder des Kuratoriums</li>
+		<li>Bestellung des Kassen- bzw. Rechnungsprüfers</li>
+		<li>Beschlüsse über die Änderung der Satzung und Auflösung des Vereins</li>
+		<li>Bildung weiterer Organe.</li>
+	</ol></li>
+	<li>Einberufung
+	<ol type="a"><li>Ordentliche Mitgliederversammlungen finden mindestens einmal jährlich statt. Sie werden vom Vorstand schriftlich (E-Mail ausreichend) mit einer Frist von 4 Wochen einberufen. Die Frist beginnt mit dem Tag der Absendung des Einladungsschreibens per Post oder per E-Mail.</li>
+		<li>Die Einberufung muss die genaue Zeit, Ort und Tagesordnung der Versammlung beinhalten. Das Einladungsschreiben gilt dem Mitglied des Vereins als zugegangen, wenn es an die letzte vom Mitglied dem Verein bekannt gegebene Adresse oder E-Mail-Adresse gerichtet ist.</li>
+		<li>Jedes Mitglied kann bis 2 Wochen vor der Versammlung schriftlich (E-Mail ausreichend) gegenüber dem Vorstand Ergänzungen zur Tagesordnung beantragen. Die Tagesordnung ist in diesem Fall zu Beginn der Mitgliederversammlung durch den Versammlungsleiter entsprechend zu ergänzen. Über Anträge auf Ergänzung der Tagesordnung, die erst in der Mitgliederversammlung gestellt werden, beschließt die Mitgliederversammlung durch einstimmigen Beschluss.</li>
+		<li>Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn der Vorstand dies als nötig erachtet oder wenn mindestens 25% aller Mitglieder dies schriftlich (E-Mail ausreichend), unter Angabe von Zweck und Grund beim Vorstand beantragen.</li>
+	</ol></li>
+	<li>Durchführung
+	<ol type="a"><li>Zu Beginn jeder Mitgliederversammlung ein/-e Versammlungsleiter/-in und ein/-e Protokollführer/-in gewählt.</li>
+		<li>Das Protokoll der Mitgliederversammlung ist vom Versammlungsleiter/-in und vom Protokollführer/-in zu unterzeichnen. Es ist jedem Mitglied innerhalb von zwei Wochen nach Abhaltung der Mitgliederversammlung beim Vorstand zur Einsichtnahme und Anfertigung von Abschriften zur Verfügung zu stellen. Zudem soll allen Mitgliedern eine Kopie per E-Mail übermittelt werden.</li>
+		<li>Der Vorstand kann durch Beschluss vorsehen, dass Vereinsmitglieder (i) an der Mitgliederversammlung ohne Anwesenheit am Versammlungsort teilnehmen und Mitgliederrechte im Wege der elektronischen Kommunikation ausüben können oder müssen und/oder (ii) ohne Teilnahme an der Mitgliederversammlung ihre Stimmen vor der Durchführung der Mitgliederversammlung schriftlich abgeben können.</li>
+	</ol></li>
+	<li>Beschlussfähigkeit und Stimmrechte
+	<ol type="a"><li>Die Mitgliederversammlung ist ohne Rücksicht auf die Zahl der anwesenden und vertretenen Mitglieder beschlussfähig. Stimmberechtigt sind ordentliche Mitglieder und Ehrenmitglieder.</li>
+		<li>Stimmberechtigte Mitglieder dürfen andere stimmberechtigte Mitglieder schriftlich (E-Mail ausreichend) mit der Ausübung des Stimmrechts bevollmächtigen. Eine Vollmacht kann nur für eine in der Vollmacht genannte Mitgliederversammlung erteilt werden. Eine längerfristige oder dauerhafte Vollmacht (Generalvollmacht) ist nicht erlaubt.</li>
+		<li>Die schriftliche Vollmacht ist dem/der Versammlungsleiter/-in vor Beginn der Versammlung vorzulegen.</li>
+		<li>Ein Mitglied darf nicht mehr als drei Stimmen, inklusive seiner eigenen, auf sich vereinen.</li>
+		<li>Die Beschlüsse werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst; Stimmenthaltungen zählen nicht.</li>
+		<li>Es sollen Beschlussfassungen offen durch Handzeichen und Wahlen schriftlich erfolgen. In beiden Fällen steht allerdings dem/der Versammlungsleiter/-in jeweils die Abstimmungsart bzw. das Wahlverfahren; zulässig sind etwa eine Gesamtabstimmung, eine Listen- oder Blockwahl, eine besondere Gesamtwahl oder eine Briefwahl. Verlangen mindestens drei anwesende oder vertretene Mitglieder eine schriftliche und/oder eine geheime Abstimmung bzw. Wahl, dann ist schriftlich bzw. geheim abzustimmen bzw. zu wählen.</li>
+	</ol></li>
+</ol><h4>Vorstand</h4>
+
+<ol><li>Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch die Satzung oder zwingende gesetzliche Vorschriften einem anderen Vereinsorgan zugewiesen sind</li>
+	<li>Der Vorstand besteht aus einer ungeraden Anzahl von mindestens drei und höchsten 5 Mitgliedern, der/dem 1. Vorsitzenden, der/dem 2. Vorsitzenden, der/dem Schatzmeister/-in einem und gegebenenfalls weiteren Beisitzern.</li>
+	<li>Die Aufnahme in den Vorstand des Vereins setzt die Mitgliedschaft im Verein oder die betriebliche Zugehörigkeit zu einem Mitglied voraus. Bei Beendigung der Mitgliedschaft bzw. der betrieblichen Zugehörigkeit zu einem Mitglied endet auch das Amt als Vorstand.</li>
+	<li>Die gerichtliche und außergerichtliche Vertretung obliegt dem Vorstand. Zwei Vorstandsmitglieder vertreten gemeinsam. Der Vorstand erstellt und überarbeitet eine Geschäftsordnung und einen Aufgabenverteilungsplan. Erstellung, Änderung und Aufhebung der Geschäftsordnung und des Aufgabenverteilungsplanes bedürfen zu ihrer Wirksamkeit der Zustimmung der Mitgliederversammlung. Bleibt der Vorstand insoweit untätig, kann die Mitgliederversammlung durch Beschluss eine Geschäftsordnung und/oder einen Aufgabenverteilungsplan für den Vorstand erlassen und/oder ändern.</li>
+	<li>Vorstandsmitglieder werden von der Mitgliederversammlung gewählt. Die Amtszeit beträgt 2 Jahre. Die Mitglieder des Vorstandes bleiben bis zur Neuwahl im Amt. Eine mehrmalige Wiederwahl ist möglich.</li>
+	<li>Scheidet der/die 1. Vorsitzender/Vorsitzende während der Amtsperiode aus, übernimmt der/die 2. Vorsitzender/Vorsitzende das Amt des 1. Vorsitzenden.</li>
+	<li>Ist während der Amtsperiode ein Vorstandsamt nicht besetzt, kann der Vorstand für die restliche Amtsperiode bis zur Neuwahl kommissarisch ein Ersatzmitglied benennen. Diese Ernennung ist von der Mitgliederversammlung zu bestätigen.</li>
+	<li>Die Vorstandsmitglieder sind ehrenamtlich tätig.</li>
+	<li>Zu den Aufgaben des Vorstandes gehören unter anderem:
+	<ol type="a"><li>Beschlussfassung über grundsätzliche und wichtige Angelegenheiten des Vereins, insbesondere zur Erfüllung des Vereinszwecks</li>
+		<li>Einberufung der Mitgliederversammlung</li>
+		<li>Ausführung der Beschlüsse der Mitgliederversammlung</li>
+		<li>Aufstellung des Jahresabschlusses und des Jahresberichts</li>
+		<li>Verwaltung des Vereinsvermögens und die Planung und Überwachung der Mittelverwendung</li>
+	</ol></li>
+</ol><h4>Kuratorium</h4>
+
+<ol><li>Das Kuratorium fördert die Arbeit des Vereins als Ganzes. Es berät die Mitgliederversammlung und den Vorstand und unterstützt sie bei der Verwirklichung der Vereinsaufgaben.</li>
+	<li>Mitglieder des Kuratoriums werden vom Vorstand vorgeschlagen und von der Mitgliederversammlung gewählt. Angestellte des Vereins und Mitglieder des Vorstands dürfen nicht gewählt werden.</li>
+	<li>Die Amtsperiode für Kuratoriumsmitglieder beträgt 2 Jahre. Wiederwahl ist möglich.</li>
+</ol><h4>Schlichtungsausschuss</h4>
+
+<ol><li>Der Vorstand kann bei Bedarf einen Schlichtungsausschuss einberufen, der aus drei Mitgliedern besteht, die kein anderes Amt im Verein innehaben dürfen.</li>
+	<li>Der Ausschuss dient der friedlichen Schlichtung persönlicher und sachlicher Differenzen der Mitglieder.</li>
+	<li>Soweit eine friedliche Schlichtung fehlschlägt, sind alle Streitigkeiten zwischen Verein und seinen Mitgliedern, und zwischen zwei oder mehr Mitgliedern untereinander, ausschließlich im Wege eines Schiedsverfahrens und unter Ausschluss des ordentlichen Rechtsweges zu verfolgen. Die Mitgliederversammlung wird dazu eine Schiedsordnung entwickeln und verabschieden.</li>
+</ol><h4>Geschäftsführung</h4>
+
+<ol><li>Für die Führung und Verwaltung der Vereinsgeschäfte kann der Vorstand eine Geschäftsstelle einrichten, die von einem oder mehreren Geschäftsführern geleitet werden.</li>
+	<li>Die/der Geschäftsführer erledigt die Geschäfte der laufenden Verwaltung des Vereins und sorgt für die Durchführung der Beschlüsse und Weisungen des Vorstandes. Der Vorstand kann eine Geschäftsordnung für die Geschäftsführung erlassen.</li>
+	<li>Der/die Geschäftsführer ist/sind einzelvertretungsberechtigt, jedoch an die Entscheidungen der Vereinsorgane und die Weisungen des Vorstandes im Einzelfall gebunden.</li>
+	<li>Jede/r Geschäftsführer/in hat an den Mitgliederversammlungen und Vorstandssitzungen teilzunehmen.</li>
+</ol><h4>Jahresabschluss</h4>
+
+<ol><li>Der Vorstand ist verpflichtet den Jahresabschluss innerhalb von 9 Monaten nach Ende des vorherigen Geschäftsjahres dem von der Mitgliederversammlung auserwählten Rechnungsprüfer vorzulegen.</li>
+</ol><h4>Satzungsänderung</h4>
+
+<ol><li>Satzungsänderungen werden von der Mitgliederversammlung bestimmt und erfordern die Anwesenheit von mindestens 50% der Stimmberechtigten und zwei Drittel der abgegebenen Stimmen.</li>
+	<li>Änderungen des Vereinszwecks erfordern die Zustimmung von mindestens 50% aller stimmberechtigten Mitglieder.</li>
+	<li>Änderungen oder Ergänzungen der Satzung, die von der zuständigen Registerbehörde und/oder vom Finanzamt vorgeschrieben werden, werden vom Vorstand umgesetzt und bedürfen keiner Beschlussfassung durch die Mitgliederversammlung. Sie sind den Mitgliedern spätestens mit der Einladung zur nächsten Mitgliederversammlung mitzuteilen.</li>
+</ol><h4>Datenschutz</h4>
+
+<ol><li>Der Verein erhebt, verarbeitet und nutzt personenbezogene Daten seiner Mitglieder (Einzelangaben über persönliche und sachliche Verhältnisse) unter Einsatz von Datenverarbeitungsanlagen (EDV) zur Erfüllung der gemäß dieser Satzung zulässigen Zwecke und Aufgaben, beispielsweise im Rahmen der Mitgliederverwaltung. Hierbei handelt es sich insbesondere um folgende Mitgliederdaten: Name und Anschrift, Telefonnummern (Festnetz und Mobilfunk) sowie E-Mail-Adresse, Geburtsdatum, Funktion(en) im Verein.</li>
+	<li>Mitgliederlisten werden als Datei oder in gedruckter Form soweit an Mitglieder herausgegeben, wie deren Funktion oder besondere Aufgabenstellung im Verein die Kenntnisnahme erfordern.</li>
+	<li>Durch ihre Mitgliedschaft und die damit verbundene Anerkennung dieser Satzung stimmen die Mitglieder der Erhebung, Verarbeitung (Speicherung, Veränderung, Übermittlung) und Nutzung ihrer personenbezogenen Daten in dem vorgenannten Ausmaß und Umfang zu. Eine anderweitige, über die Erfüllung seiner satzungsgemäßen Aufgaben und Zwecke hinausgehende Datenverwendung ist dem Verein nur erlaubt, sofern er aus gesetzlichen Gründen hierzu verpflichtet ist oder mit der schriftlichen Zustimmung der Mitglieder. Ein Datenverkauf ist nicht statthaft.</li>
+	<li>Jedes Mitglied hat im Rahmen der gesetzlichen Vorschriften des Bundesdatenschutzgesetzes (insbesondere §§ 34, 35) das Recht auf Auskunft über die zu seiner Person gespeicherten Daten, deren Empfänger und den Zweck der Speicherung sowie auf Berichtigung, Löschung oder Sperrung seiner Daten.</li>
+</ol><h4>Auflösung</h4>
+
+<ol><li>Der Verein kann durch Beschluss der Mitgliederversammlung mit einer Mehrheit von drei Vierteln der erschienenen Mitglieder aufgelöst werden.</li>
+	<li>Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder an eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung von Wissenschaft und Forschung.</li>
+</ol></section></div>
+      
+    </div>
+  </div>
+<div class="block block-layout-builder block-extra-field-blocknodepagelinks">
+  
+    
+      <div class="content">
+      
+
+
+    </div>
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+</article>
+
+    </div>
+  </div>
+
+
+                </section>
+              </main>
+                                  </div>
+        </div>
+          </div>
+        <footer class="site-footer">
+              <div class="container">
+                                <div class="site-footer__bottom">
+                <section class="row region region-footer-fifth">
+    <div id="block-denbievfooter" class="block block-block-content block-block-content8cf0d782-f2ac-4253-bea4-8794427e5f97">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+.site-footer,
+    .site-footer .container-fluid,
+    .site-footer__bottom,
+    .site-footer__bottom .region,
+    .site-footer__bottom .block,
+    .site-footer__bottom .content {
+        padding: 0;
+        margin: 0;
+    }
+.site-footer content a:hover, .site-footer content a:focus, .site-footer content a:active{
+  color:#ea028c
+}
+
+/*--><!]]>*/
+</style><div class="footer">
+<div class="container">
+<div class="row pt-5">
+<div class="col-12 col-sm-6">
+<h2 class="mb-4" style="color: #EA028C;">Kontakt</h2>
+
+<h6>Prof. Dr. Ursula Kummer</h6>
+
+<p>Erste Vorsitzende<br />
+Im Neuenheimer Feld 267<br />
+69120 Heidelberg</p>
+</div>
+</div>
+
+<div class="row mt-3">
+<div class="col mt-4 mb-3 py-2 d-flex justify-content-end" style="border-top: solid 2px green;"><a class="px-3" href="../impressum">Impressum</a><a href="../datenschutz">Datenschutzerklärung</a></div>
+
+<div class="col-1 d-none d-md-flex justify-content-center"><img src="../sites/default/files/deNBIeV_FooterLogo.svg" style="max-height:54px; object-fit:cover;" /></div>
+
+<div class="col mt-4 mb-3 py-2" style="border-top: solid 2px green; color:#fcfeff">© de.NBI e.V. 2022</div>
+</div>
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+  </section>
+
+            </div>
+                  </div>
+          </footer>
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/85","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"user":{"uid":0,"permissionsHash":"ca4e0aa15402106e461cfcc845aff4703b0a5eef5d7aa50cf8e935be5fd0e55d"}}</script>
+<script src="../sites/default/files/js/js_AfqYzlW71UNW9PsotE5ELou-r50UGYw8JM2cS_29YYs.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
+<script src="../sites/default/files/js/js_WXj2w9TBGYhNRW9I-HNtKo1m59vW4qaXGBX_iIlA5c8.js"></script>
+
+  </body>
+</html>
