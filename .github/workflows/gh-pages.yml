@@ -1,13 +1,13 @@
 name: Build GH-Pages
 
 on:
-  push:
-    paths-ignore:
-      - "images/**"
-      - "LICENSE"
-      - "README.md"
-    branches:
-      - main
+  # push:
+  #   paths-ignore:
+  #     - "images/**"
+  #     - "LICENSE"
+  #     - "README.md"
+  #   branches:
+  #     - main
   workflow_dispatch:
     # manual run
     inputs:
