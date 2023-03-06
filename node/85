@@ -173,6 +173,7 @@
                         </button>
                         <ul class="dropdown-menu bg-white"><li><a class="dropdown-item d-block bg-white" href="../about#Vorstand">Vorstand</a></li>
                           <li><a class="dropdown-item d-block bg-white " href="../about#Mitglieder">Mitglieder</a></li>
+                          <li><a class="dropdown-item d-block bg-white " href="../about#Aktivitaeten">Aktivitäten</a></li>
                       </ul></div>
                     <button type="button" class="btn shadow-none border-0 mt-2 mt-xl-0 me-4 text-start">
                         <a href="../satzung">Satzung</a>
