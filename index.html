@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
 <link rel="icon" href="sites/default/files/deNBIeV_favicon.ico" type="image/vnd.microsoft.icon" />
-<link rel="canonical" href="about.html" />
+<link rel="canonical" href="index.html" />
 <link rel="shortlink" href="node/84" />
 
     <title>Über uns | de.NBI e.V.</title>
@@ -20,6 +20,57 @@
 
     <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" defer crossorigin="anonymous"></script>
 <script src="https://use.fontawesome.com/releases/v6.1.0/js/v4-shims.js" defer crossorigin="anonymous"></script>
+
+    <style>
+      /* Der Link füllt die Box aus und richtet die Elemente oben aus */
+.preview-link {
+  display: flex !important;
+  /* ÄNDERUNG HIER: flex-start richtet Text und Bild an der Oberkante aus */
+  align-items: flex-start !important; 
+  justify-content: space-between;
+  width: 100%;
+  gap: 15px;
+  text-decoration: none;
+  text-align: left;
+}
+
+/* Die Text-Box stapelt die Texte weiterhin untereinander */
+.text-wrapper {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.text-wrapper h4 {
+  margin: 0 !important;
+  font-size: 1.1rem;
+  color: #333;
+  line-height: 1.2;                  /* Feste Zeilenhöhe für präzise Ausrichtung */
+}
+
+.subtext {
+  font-size: 0.85rem;
+  color: #6c757d;
+  margin-top: 4px;
+}
+
+/* Das Logo richtet sich nun oben aus */
+.preview-link .hover-image {
+  display: block !important;
+  position: static !important;
+  flex-shrink: 0;
+  
+  /* ÄNDERUNG HIER: Gleicht den kleinen Weißraum der Schrifthöhe oben perfekt aus */
+  margin-top: 2px !important; 
+  
+  width: 125px;
+  height: auto;
+  border: 1px solid #dee2e6;
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.1); 
+}
+
+    </style>
+
+
 
   </head>
   <body class="layout-no-sidebars page-node-84 path-frontpage node--type-page">
@@ -151,14 +202,14 @@
   
   
         <div class="navbar-brand me-2 d-none d-sm-block pr-lg-4">
-          <a href="about.html"><img src="sites/default/files/deNBIeV_Logo.svg" alt="deNBI e.V." style="height: 95px; width: auto" /></a>
+          <a href="index.html"><img src="sites/default/files/deNBIeV_Logo.svg" alt="deNBI e.V." style="height: 95px; width: auto" /></a>
           </div>
   
         <!--Collapsible content-->
         <div class="offcanvas offcanvas-end h-100 py-2" data-bs-scroll="true" tabindex="-1" id="navbarOffcanvas" aria-labelledby="navbarOffcanvasLabel">
   
             <div class="offcanvas-header px-4 pt-4 pb-0">
-                <a class="offcanvas-title" id="offcanvasLabel" href="about.html">
+                <a class="offcanvas-title" id="offcanvasLabel" href="index.html">
                     <img src="sites/default/files/deNBIeV_Logo.svg" alt="deNBI e.V." style="height: 75px; width: auto" /></a>
                 <button type="button" class="btn-close text-reset shadow-none" data-bs-dismiss="offcanvas" aria-label="Close"></button>
             </div>
@@ -167,13 +218,15 @@
             <div class="offcanvas-body justify-content-end mx-lg-5">
                 <ul class="navbar-nav"><div class="dropdown position-relative d-inline-block">
                         <button type="button" class="btn shadow-none border-0 mt-2 mt-xl-0 me-4 text-start">
-                            <a href="about.html">
+                            <a href="index.html">
                                 Über Uns
                             </a>
                         </button>
-                        <ul class="dropdown-menu bg-white"><li><a class="dropdown-item d-block bg-white" href="about.html#Vorstand">Vorstand</a></li>
-                          <li><a class="dropdown-item d-block bg-white " href="about.html#Mitglieder">Mitglieder</a></li>
-                          <li><a class="dropdown-item d-block bg-white " href="about.html#Aktivitaeten">Aktivitäten</a></li>
+                        <ul class="dropdown-menu bg-white">
+                          <li><a class="dropdown-item d-block bg-white" href="index.html#Vorstand">Vorstand</a></li>
+                          <li><a class="dropdown-item d-block bg-white " href="index.html#Mitglieder">Mitglieder</a></li>
+                          <li><a class="dropdown-item d-block bg-white " href="index.html#Aktivitaeten">Aktivitäten</a></li>
+                          <li><a class="dropdown-item d-block bg-white" href="index.html#Spenden">Spenden</a></li>
                       </ul></div>
                     <button type="button" class="btn shadow-none border-0 mt-2 mt-xl-0 me-4 text-start">
                         <a href="satzung.html">Satzung</a>
@@ -296,8 +349,10 @@
 <h1 class="display-2 text-white">Der Verein zur Unterstützung des deutschen Bioinformatik Netzwerkes</h1>
 </div>
 </section><section class="mb-3 pb-3" style="text-align: justify;"><div class="container">
-<p>Das deutsche Netzwerk für Bioinformatik-Infrastruktur (de.NBI) wurde ursprünglich vom Bundesministerium für Bildung und Forschung (BMBF) ins Leben gerufen und gefördert, um wichtige Bioinformatikinfrastrukturen wie Software und Cloud-Computing nachhaltig für die Wissenschaft zu erhalten und noch besser zugänglich zu machen. Obwohl das BMBF die Finanzierung des Netzwerks Ende 2021 eingestellt hat, wurden Bundesgelder bereitgestellt, die über das Forschungszentrum Jülich eine Verstetigung von de.NBI ermöglichen sollen.<br />
-Um den Wissenschaftlerinnen und Wissenschaftlern, die an de.NBI beteiligt oder interessiert sind, weiterhin eine gemeinsame Plattform zu bieten, wurde der gemeinnützige Verein de.NBI e.V. gegründet. Der Verein dient als Sprachrohr für alle deutschen Wissenschaftlerinnen und Wissenschaftler in Deutschland sein, die an Bioinformatikinfrastrukturen, also an wichtigen Services für die wissenschaftliche Community im Bereich Datenanalyse, Modellierung o.ä. arbeiten. Außerdem möchte der Verein den Zugang zu weiterer Förderung ermöglichen. Bioinformatikinfrastrukturen sind von absolut zentraler Bedeutung für die biowissenschaftliche und medizinische Forschung. Der kostenlose Zugang zu den entsprechenden Ressourcen ist extrem wichtig für Tausende von Forschenden, dazu gehört auch die Weiterbildung in diesem Bereich. All dies sind zentrale Anliegen des Vereins, der von wissenschaftlichen Institutionen als Mitglieder getragen wird.</p>
+<p>Das deutsche Netzwerk für Bioinformatik-Infrastruktur (de.NBI) unterstützt eine nachhaltige Finanzierung wichtiger Bioinformatikinfrastrukturen wie Software und Cloud-Computing in Deutschland. Der kostenlose Zugang zu diesen Ressourcen ist extrem wichtig für Tausende von Forschenden in In- und Ausland. Darüberhinaus bietet de.NBI vielfältige Weiterbildung in diesem Bereich an. Damit sorgt de.NBI direkt für eine Unterstützung von Wissenschaft und Forschung, die auf die entsprechenden Infrastrukturen angewiesen sind und verbessert deren Zugänglichkeit. Zusätzlich stärkt de.NBI damit die technologische Souveränität Deutschlands und Europas. <br />
+Um dies tatsächlich langfristig zu gewährleisten und um immer wieder politisch Gewicht zu haben, wurde der gemeinnützige Verein de.NBI e.V. gegründet. <br />
+Der Verein dient somit als Sprachrohr für alle deutschen Wissenschaftlerinnen und Wissenschaftler und deren Heimatinstitutionen in Deutschland, die an Bioinformatikinfrastrukturen, also an wichtigen Services für die wissenschaftliche Community im Bereich Bioinformatik, Datenanalyse, Modellierung, Datenbanken o.ä. arbeiten. Außerdem möchte der Verein den Zugang zu weiterer Förderung ermöglichen. <br />
+Der Verein trägt sich hauptsächlich durch institutionelle Mitglieder. </p>
 </div>
 </section><section class="my-3 py-3 full-width anchor" style="background-color:#f0f2f3;"><a class="anchor" id="Vorstand" target="_blank"></a>
 
@@ -362,7 +417,7 @@ Alfred-Wegener-Institut Bremerhaven</p>
 
 <div class="container">
 <h2 class="text-center"><strong>MITGLIEDER</strong></h2>
-
+<!--
 <div class="row gy-4 mt-3">
 <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
 <div class="Mitglieder p-2 text-center d-flex flex-column justify-content-start">
@@ -432,11 +487,155 @@ Alfred-Wegener-Institut Bremerhaven</p>
 <div class="Mitglieder p-2 text-center d-flex flex-column justify-content-center">
 <h4><a href="https://www.uni-bremen.de/" target="_blank">Universität Bremen</a></h4>
 
-<p> </p>
+<p> </p>
 </div>
 </div>
+
+<div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+<div class="Mitglieder p-2 text-center d-flex flex-column justify-content-center">
+<h4><a href="https://uni-freiburg.de/" target="_blank">Universität Freiburg</a></h4>
+
+<p> </p>
 </div>
+</div> -->
+
+<div class="row gy-4 mt-3">
+
+  <!-- GFBio e.V. -->
+  <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+    <div class="Mitglieder p-2 d-flex flex-column justify-content-center">
+      <a href="https://www.gfbio.org/" target="_blank" rel="noopener" class="preview-link">
+        <div class="text-wrapper">
+          <h4>GFBio e.V.</h4>
+          <span class="subtext">Gesellschaft für Biologische Daten e.V.</span>
+        </div>
+        <img src="sites/default/files/2023-03/gfbio.png" alt="GFBio e.V. Vorschau" class="hover-image" />
+      </a>
+    </div>
+  </div>
+
+  <!-- IPK -->
+  <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+    <div class="Mitglieder p-2 d-flex flex-column justify-content-center">
+      <a href="https://www.ipk-gatersleben.de/" target="_blank" rel="noopener" class="preview-link">
+        <div class="text-wrapper">
+          <h4>IPK</h4>
+          <span class="subtext">Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung Gatersleben</span>
+        </div>
+        <img src="sites/default/files/2023-03/ipk.png" alt="IPK Vorschau" class="hover-image" />
+      </a>
+    </div>
+  </div>
+
+  <!-- DSMZ Braunschweig -->
+  <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+    <div class="Mitglieder p-2 d-flex flex-column justify-content-center">
+      <a href="https://www.dsmz.de/" target="_blank" rel="noopener" class="preview-link">
+        <div class="text-wrapper">
+          <h4>DSMZ Braunschweig</h4>
+          <span class="subtext">Deutsche Sammlung von Mikroorganismen und Zellkulturen</span>
+        </div>
+        <img src="sites/default/files/2023-03/dsmzleibniz.png" alt="DSMZ Braunschweig Vorschau" class="hover-image" />
+      </a>
+    </div>
+  </div>
+
+  <!-- EMBL -->
+  <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+    <div class="Mitglieder p-2 d-flex flex-column justify-content-center">
+      <a href="https://www.embl.org/sites/heidelberg/" target="_blank" rel="noopener" class="preview-link">
+        <div class="text-wrapper">
+          <h4>EMBL</h4>
+          <span class="subtext">Europäisches Laboratorium für Molekularbiologie</span>
+        </div>
+        <img src="sites/default/files/2023-03/embl.png" alt="EMBL Vorschau" class="hover-image" />
+      </a>
+    </div>
+  </div>
+
+  <!-- Universität Tübingen -->
+  <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+    <div class="Mitglieder p-2 d-flex flex-column justify-content-center">
+      <a href="https://uni-tuebingen.de/" target="_blank" rel="noopener" class="preview-link">
+        <div class="text-wrapper">
+          <h4>Universität Tübingen</h4>
+          <span class="subtext">Eberhard Karls Universität</span>
+        </div>
+        <img src="sites/default/files/2023-03/unitübingen.png" alt="Universität Tübingen Vorschau" class="hover-image" />
+      </a>
+    </div>
+  </div>
+
+  <!-- Universität Heidelberg -->
+  <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+    <div class="Mitglieder p-2 d-flex flex-column justify-content-center">
+      <a href="https://www.uni-heidelberg.de/de" target="_blank" rel="noopener" class="preview-link">
+        <div class="text-wrapper">
+          <h4>Universität Heidelberg</h4>
+          <span class="subtext">Ruprecht-Karls-Universität</span>
+        </div>
+        <img src="sites/default/files/2023-03/uniheidelberg.png" alt="Universität Heidelberg Vorschau" class="hover-image" />
+      </a>
+    </div>
+  </div>
+
+  <!-- Universität Gießen -->
+  <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+    <div class="Mitglieder p-2 d-flex flex-column justify-content-center">
+      <a href="https://www.uni-giessen.de/de" target="_blank" rel="noopener" class="preview-link">
+        <div class="text-wrapper">
+          <h4>Universität Gießen</h4>
+          <span class="subtext">Justus-Liebig-Universität</span>
+        </div>
+        <img src="sites/default/files/2023-03/unigiessen.jpg" alt="Universität Gießen Vorschau" class="hover-image" />
+      </a>
+    </div>
+  </div>
+
+  <!-- Universität Bochum -->
+  <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+    <div class="Mitglieder p-2 d-flex flex-column justify-content-center">
+      <a href="https://www.ruhr-uni-bochum.de/de" target="_blank" rel="noopener" class="preview-link">
+        <div class="text-wrapper">
+          <h4>Universität Bochum</h4>
+          <span class="subtext">Ruhr-Universität</span>
+        </div>
+        <img src="sites/default/files/2023-03/rubochum.png" alt="Universität Bochum Vorschau" class="hover-image" />
+      </a>
+    </div>
+  </div>
+
+  <!-- Universität Bremen -->
+  <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+    <div class="Mitglieder p-2 d-flex flex-column justify-content-center">
+      <a href="https://www.uni-bremen.de/" target="_blank" rel="noopener" class="preview-link">
+        <div class="text-wrapper">
+          <h4>Universität Bremen</h4>
+          <!-- Kein Untertext vorhanden -->
+        </div>
+        <img src="sites/default/files/2023-03/unibremen.png" alt="Universität Bremen Vorschau" class="hover-image" />
+      </a>
+    </div>
+  </div>
+
+  <!-- Universität Freiburg -->
+  <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+    <div class="Mitglieder p-2 d-flex flex-column justify-content-center">
+      <a href="https://uni-freiburg.de/" target="_blank" rel="noopener" class="preview-link">
+        <div class="text-wrapper">
+          <h4>Universität Freiburg</h4>
+          <!-- Kein Untertext vorhanden -->
+        </div>
+        <img src="sites/default/files/2023-03/unifreiburg.png" alt="Universität Freiburg Vorschau" class="hover-image" />
+      </a>
+    </div>
+  </div>
+
 </div>
+
+
+
+
 </section><section class="pt-3 pb-5 mt-3 full-width anchor" style="background-color:#f0f2f3;"><a class="anchor" id="Aktivitaeten" target="_blank"></a>
 
 <div class="container my-4 text-justify">
@@ -538,29 +737,37 @@ Alfred-Wegener-Institut Bremerhaven</p>
 }
 
 /*--><!]]>*/
-</style><div class="footer">
-<div class="container">
-<div class="row pt-5">
-<div class="col-12 col-sm-6">
-<h2 class="mb-4" style="color: #EA028C;">Kontakt</h2>
+</style>
+<section id="Spenden" >
+<!-- 3. FOOTER (Ganz unten auf der Seite) -->
+<div class="footer">
+    <div class="container">
+        <div class="row pt-5">
+            <!-- Linke Spalte: Kontakt -->
+            <div class="col-12 col-sm-6">
+                <h2 class="mb-4" style="color: #EA028C;">Kontakt</h2>
+                <h6>Prof. Dr. Ursula Kummer</h6>
+                <p>Erste Vorsitzende<br />Im Neuenheimer Feld 267<br />69120 Heidelberg</p>
+            </div>
+        
+            <!-- Rechte Spalte: Unterstützung -->
 
-<h6>Prof. Dr. Ursula Kummer</h6>
 
-<p>Erste Vorsitzende<br />
-Im Neuenheimer Feld 267<br />
-69120 Heidelberg</p>
-</div>
-</div>
 
-<div class="row mt-3">
-<div class="col mt-4 mb-3 py-2 d-flex justify-content-end" style="border-top: solid 2px green;"><a class="px-3" href="impressum.html">Impressum</a><a href="datenschutz.html">Datenschutzerklärung</a></div>
-
-<div class="col-1 d-none d-md-flex justify-content-center"><img src="sites/default/files/deNBIeV_FooterLogo.svg" style="max-height:54px; object-fit:cover;" /></div>
-
-<div class="col mt-4 mb-3 py-2" style="border-top: solid 2px green; color:#fcfeff">© de.NBI e.V. 2022</div>
-</div>
-</div>
-</div>
+            <div class="col-12 col-sm-6 text-sm-end mt-4 mt-sm-0">
+                <h2 class="mb-4" style="color: #EA028C;">Unterstützung</h2>
+                
+                <div class="d-inline-block text-start mb-4" style="min-width: 280px; max-width: 100%;">
+                  <p>Wenn Sie unsere Arbeit unterstützen möchten, freuen wir uns über Ihre Spende.</p>
+                  <strong>Spendenkonto:</strong><br />
+                   de.NBI e.V.<br />
+                    IBAN: DE84 6725 0020 0009 3340 68<br />
+                    BIC: SOLADES1HDB
+                  </div>
+            </div>
+        </div>
+    </div>
+    </section>
 </div>
       
     </div>
